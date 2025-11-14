@@ -1,5 +1,5 @@
 import unittest
-from q3a_sol import add_binary
+from q3a import add_binary
 
 
 class test_add_binary(unittest.TestCase):
